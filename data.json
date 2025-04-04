@@ -1,0 +1,5618 @@
+[
+  {
+    "address": "33310 Bailey Park Blvd, Menifee, CA 92584",
+    "coordinates": {
+      "lat": 33.6374788,
+      "lng": -117.1729944
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Exclusive Autobody & Customs",
+    "numOfCars": "5",
+    "showCircle": true
+  },
+  {
+    "address": "33575 Mission Trail",
+    "coordinates": {
+      "lat": 33.6334211,
+      "lng": -117.2921555
+    },
+    "radius": 10000,
+    "circleColor": "green",
+    "dotColor": "purple",
+    "tag": "Kinetic",
+    "numOfCars": "",
+    "showCircle": false
+  },
+  {
+    "address": "29738 Haun Rd, Menifee, CA 92586",
+    "coordinates": {
+      "lat": 33.6900317,
+      "lng": -117.1755053
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Gerber Menifee",
+    "numOfCars": "50",
+    "showCircle": true
+  },
+  {
+    "address": "29385 Hunco Way, Lake Elsinore, CA 92530",
+    "coordinates": {
+      "lat": 33.690963,
+      "lng": -117.3439733
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Gerber Lake Elsinore",
+    "numOfCars": "20",
+    "showCircle": true
+  },
+  {
+    "address": "32839 Temecula Pkwy STE B, Temecula, CA 92592",
+    "coordinates": {
+      "lat": 33.4846152,
+      "lng": -117.0828079
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Fix Auto Temecula South",
+    "numOfCars": "2",
+    "showCircle": true
+  },
+  {
+    "address": "23143 Temescal Canyon Rd Ste A, Corona, CA 92883",
+    "coordinates": {
+      "lat": 33.7830663,
+      "lng": -117.4895701
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Gerber Corona",
+    "numOfCars": "15",
+    "showCircle": true
+  },
+  {
+    "address": "41674 Corning Pl, Murrieta, CA 92562",
+    "coordinates": {
+      "lat": 33.5303695,
+      "lng": -117.1817141
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Gerber Corona",
+    "numOfCars": "12",
+    "showCircle": true
+  },
+  {
+    "address": "1052 Railroad St, Corona, CA 92882",
+    "coordinates": {
+      "lat": 33.8865025,
+      "lng": -117.5807277
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "MB Collision Corona",
+    "numOfCars": "2",
+    "showCircle": true
+  },
+  {
+    "address": "27793 Jackson Ave., Menifee, CA 92585",
+    "coordinates": {
+      "lat": 33.7446492,
+      "lng": -117.1753837
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Menifee Collision",
+    "numOfCars": "5",
+    "showCircle": true
+  },
+  {
+    "address": "29770 Bradley Road E, Menifee, CA 92586",
+    "coordinates": {
+      "lat": 33.6882938,
+      "lng": -117.186994
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Los De Santiagos Auto Body",
+    "numOfCars": "5",
+    "showCircle": true
+  },
+  {
+    "address": "25695 Jefferson Ave Suite 7, Murrieta, CA 92562",
+    "coordinates": {
+      "lat": 33.5427701,
+      "lng": -117.1934211
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Ikon Auto Collision",
+    "numOfCars": "5",
+    "showCircle": true
+  },
+  {
+    "address": "25695 Jefferson Ave #11, Murrieta, CA 92562",
+    "coordinates": {
+      "lat": 33.5429674,
+      "lng": -117.1931763
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "RP Paint Studios & Collision",
+    "numOfCars": "5",
+    "showCircle": true
+  },
+  {
+    "address": "Murrieta Auto Collision",
+    "coordinates": {
+      "lat": 33.534354,
+      "lng": -117.1747326
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "41218 Nick Ln, Murrieta, CA 92562",
+    "numOfCars": "6",
+    "showCircle": true
+  },
+  {
+    "address": "27535 Enterprise Cir W, Temecula, CA 92590",
+    "coordinates": {
+      "lat": 33.51387649999999,
+      "lng": -117.1635534
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Rancho California Auto Collision",
+    "numOfCars": "4",
+    "showCircle": true
+  },
+  {
+    "address": "500 Chaney St STE I, Lake Elsinore, CA 92530",
+    "coordinates": {
+      "lat": 33.6795649,
+      "lng": -117.3389262
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Silver Auto Collision",
+    "numOfCars": "4",
+    "showCircle": true
+  },
+  {
+    "address": "18560 Pasadena St, Lake Elsinore, CA 92530",
+    "coordinates": {
+      "lat": 33.6860556,
+      "lng": -117.3391412
+    },
+    "radius": 5000,
+    "circleColor": "orange",
+    "dotColor": "black",
+    "tag": "Fix Auto Lake Elsinore",
+    "numOfCars": "17",
+    "showCircle": true
+  },
+  {
+    "address": "18425 Pasadena St, Lake Elsinore, CA 92530",
+    "coordinates": {
+      "lat": 33.6866617,
+      "lng": -117.342509
+    },
+    "radius": 5000,
+    "circleColor": "orange",
+    "dotColor": "black",
+    "tag": "Collision Pros Auto Body & Paint",
+    "numOfCars": "18",
+    "showCircle": true
+  },
+  {
+    "address": "328 E Commercial St Suites #108-109 San Bernardino, CA 92408",
+    "coordinates": {
+      "lat": 34.0564896,
+      "lng": -117.2779696
+    },
+    "radius": 5000,
+    "circleColor": "orange",
+    "dotColor": "purple",
+    "tag": "Kinetic",
+    "numOfCars": "",
+    "showCircle": false
+  },
+  {
+    "address": "939 W 1600 S Suites #3-4 Clearfield, UT 84015",
+    "coordinates": {
+      "lat": 41.0901349,
+      "lng": -112.044118
+    },
+    "radius": 5000,
+    "circleColor": "orange",
+    "dotColor": "purple",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1266 N Main St, Layton, UT 84041",
+    "coordinates": {
+      "lat": 41.07923359999999,
+      "lng": -111.9835892
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Young Layton",
+    "numOfCars": "15",
+    "showCircle": true
+  },
+  {
+    "address": "1193 W Wilson Ln, Ogden, UT 84401",
+    "coordinates": {
+      "lat": 41.227795,
+      "lng": -112.008699
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Young Ogden",
+    "numOfCars": "13",
+    "showCircle": true
+  },
+  {
+    "address": "645 Main St, Layton, UT 84041",
+    "coordinates": {
+      "lat": 41.0452158,
+      "lng": -111.9514346
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Young Chevrolet",
+    "numOfCars": "13",
+    "showCircle": true
+  },
+  {
+    "address": "2363 S 1900 W, Ogden, UT 84401",
+    "coordinates": {
+      "lat": 41.2236198,
+      "lng": -112.0262709
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "ADS ",
+    "numOfCars": "5",
+    "showCircle": true
+  },
+  {
+    "address": "650 W 1700 S, Clearfield, UT 84015",
+    "coordinates": {
+      "lat": 41.0895178,
+      "lng": -112.0381847
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Gerber Collision & Glass",
+    "numOfCars": "3",
+    "showCircle": true
+  },
+  {
+    "address": "Maaco Layton",
+    "coordinates": {
+      "lat": 41.0695636,
+      "lng": -111.9898049
+    },
+    "radius": 5000,
+    "circleColor": "orange",
+    "dotColor": "black",
+    "tag": "Maaco",
+    "numOfCars": "5",
+    "showCircle": true
+  },
+  {
+    "address": "Crazy Color Auto Body ",
+    "coordinates": {
+      "lat": 41.1026687,
+      "lng": -111.9486007
+    },
+    "radius": 5000,
+    "circleColor": "orange",
+    "dotColor": "black",
+    "tag": "Crazy color",
+    "numOfCars": "5",
+    "showCircle": true
+  },
+  {
+    "address": "2675 Industrial Drive, #302 Ogden, Utah 84401",
+    "coordinates": {
+      "lat": 41.2176762,
+      "lng": -112.0139686
+    },
+    "radius": 5000,
+    "circleColor": "orange",
+    "dotColor": "black",
+    "tag": "Ogden body shop",
+    "numOfCars": "4",
+    "showCircle": true
+  },
+  {
+    "address": "3767 Pacific Avenue, Ogden, Utah 84405",
+    "coordinates": {
+      "lat": 41.1930177,
+      "lng": -111.9858216
+    },
+    "radius": 5000,
+    "circleColor": "orange",
+    "dotColor": "black",
+    "tag": "Straight Line",
+    "numOfCars": "4",
+    "showCircle": true
+  },
+  {
+    "address": "900 West Riverdale Road, Riverdale, UT 84405",
+    "coordinates": {
+      "lat": 41.179051,
+      "lng": -112.0022502
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Ken Garf",
+    "numOfCars": "25",
+    "showCircle": true
+  },
+  {
+    "address": "2236 South 2700 West, West Valley City, UT 84119",
+    "coordinates": {
+      "lat": 40.7227128,
+      "lng": -111.9580747
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "West Valey",
+    "numOfCars": "21",
+    "showCircle": true
+  },
+  {
+    "address": "132 North Redwood Road North Salt Lake, Utah 84054",
+    "coordinates": {
+      "lat": 40.8451706,
+      "lng": -111.929616
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Higgins",
+    "numOfCars": "4",
+    "showCircle": true
+  },
+  {
+    "address": "6580 Spencer St Suite #B-5 Las Vegas, NV 89119",
+    "coordinates": {
+      "lat": 36.0698941,
+      "lng": -115.1267116
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "purple",
+    "tag": "Kinetic",
+    "numOfCars": "",
+    "showCircle": false
+  },
+  {
+    "address": "2350 Silver Wolf Dr",
+    "coordinates": {
+      "lat": 36.0704775,
+      "lng": -114.9984297
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "(CSAA)Frank's Auto Body - Silver Wolf",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "240 N GIBSON RD",
+    "coordinates": {
+      "lat": 36.04605859999999,
+      "lng": -115.0275668
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "(CSAA) HENDERSON CHEVROLET",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "8535 W Centennial Pkwy, Las Vegas, NV 89149",
+    "coordinates": {
+      "lat": 36.2762842,
+      "lng": -115.2801741
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Jim Marsh",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "4125 Sobb Ave #120, Las Vegas, NV 89118",
+    "coordinates": {
+      "lat": 36.0768455,
+      "lng": -115.1949413
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Southwest Auto Body",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "327 Kiesel Ave",
+    "coordinates": {
+      "lat": 41.2416245,
+      "lng": -111.9704784
+    },
+    "radius": 5000,
+    "circleColor": "blue",
+    "dotColor": "black",
+    "tag": "(CSAA) Valley Collision - VC7",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "3520 WALL AVE",
+    "coordinates": {
+      "lat": 41.1994543,
+      "lng": -111.9787473
+    },
+    "radius": 5000,
+    "circleColor": "blue",
+    "dotColor": "black",
+    "tag": "(CSAA) Cascade",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "8689 Red Oak St, Rancho Cucamonga, CA 91730",
+    "coordinates": {
+      "lat": 34.0948943,
+      "lng": -117.5685242
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "MB Collision",
+    "numOfCars": "26",
+    "showCircle": true
+  },
+  {
+    "address": "301 E Stuart Ave, Redlands, CA 92374",
+    "coordinates": {
+      "lat": 34.0599315,
+      "lng": -117.179131
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Banda",
+    "numOfCars": "4",
+    "showCircle": true
+  },
+  {
+    "address": "1976 Essex Ct, Redlands, CA 92373",
+    "coordinates": {
+      "lat": 34.0619069,
+      "lng": -117.2213882
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Fix Auto Redlands",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "280 E 5th St, San Bernardino, CA 92410",
+    "coordinates": {
+      "lat": 34.1085686,
+      "lng": -117.2797818
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Genuine custom",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "2075 S Riverside Ave, Bloomington, CA 92316",
+    "coordinates": {
+      "lat": 34.0639583,
+      "lng": -117.3698348
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Fix Auto Bloomington",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "275 S E St, San Bernardino, CA 92401",
+    "coordinates": {
+      "lat": 34.0965207,
+      "lng": -117.2935614
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Empire Collision",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1655 Industrial Park Ave, Redlands, CA 92374",
+    "coordinates": {
+      "lat": 34.0656521,
+      "lng": -117.2112161
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Dynamic Collision",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "14441 Commerce Center Dr, Moreno Valley, CA 92553",
+    "coordinates": {
+      "lat": 33.9112012,
+      "lng": -117.2750457
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Fix Auto Moreno",
+    "numOfCars": "20",
+    "showCircle": true
+  },
+  {
+    "address": "26847 Base Line St, Highland, CA 92346",
+    "coordinates": {
+      "lat": 34.1208874,
+      "lng": -117.2185099
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Gerber Highland",
+    "numOfCars": "27",
+    "showCircle": true
+  },
+  {
+    "address": "12190 La Crosse Ave, Grand Terrace, CA 92313",
+    "coordinates": {
+      "lat": 34.0324666,
+      "lng": -117.3277242
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Gerber Grand Terrance",
+    "numOfCars": "9",
+    "showCircle": true
+  },
+  {
+    "address": "14156 Business Center Dr, Moreno Valley, CA 92553",
+    "coordinates": {
+      "lat": 33.9139137,
+      "lng": -117.2710102
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Gerber Moreno Valley",
+    "numOfCars": "14",
+    "showCircle": true
+  },
+  {
+    "address": "1790 S E St, San Bernardino, CA 92408",
+    "coordinates": {
+      "lat": 34.0693027,
+      "lng": -117.2946665
+    },
+    "radius": 5000,
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "tag": "Gerber San Bernardino",
+    "numOfCars": "20",
+    "showCircle": true
+  },
+  {
+    "address": "6151 Quail Valley Ct, Riverside, CA 92507",
+    "coordinates": {
+      "lat": 33.9401818,
+      "lng": -117.2959734
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Gerber Riverside Quail",
+    "numOfCars": "10",
+    "showCircle": true
+  },
+  {
+    "address": "2523 Main St, Riverside, CA 92501",
+    "coordinates": {
+      "lat": 33.9934602,
+      "lng": -117.3679554
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Gerber Riverside Main St",
+    "numOfCars": "6",
+    "showCircle": true
+  },
+  {
+    "address": "705 W Colton Ave, Redlands, CA 92374",
+    "coordinates": {
+      "lat": 34.0626317,
+      "lng": -117.1903695
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "Gerber Redlands",
+    "numOfCars": "19",
+    "showCircle": true
+  },
+  {
+    "address": " 236 Industrial Rd, San Carlos, CA 94070",
+    "coordinates": {
+      "lat": 37.5182698,
+      "lng": -122.2644857
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "purple",
+    "tag": "Kinetic",
+    "numOfCars": "",
+    "showCircle": false
+  },
+  {
+    "address": "4234 MONTEREY RD.",
+    "coordinates": {
+      "lat": 37.2761739,
+      "lng": -121.8320419
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "2973 S KING RD",
+    "coordinates": {
+      "lat": 37.3105479,
+      "lng": -121.8143244
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "5761 WINFIELD BLVD",
+    "coordinates": {
+      "lat": 37.2481971,
+      "lng": -121.8680155
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "385 Tully Rd",
+    "coordinates": {
+      "lat": 37.3060681,
+      "lng": -121.8513685
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "280 Cimino St",
+    "coordinates": {
+      "lat": 37.3024201,
+      "lng": -121.870973
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1341 REDMOND AVE",
+    "coordinates": {
+      "lat": 37.22855089999999,
+      "lng": -121.885367
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "419 ORTO ST",
+    "coordinates": {
+      "lat": 37.3052597,
+      "lng": -121.8763326
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "575 W SAN CARLOS ST",
+    "coordinates": {
+      "lat": 37.3255021,
+      "lng": -121.8997948
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1320 Oakland Rd",
+    "coordinates": {
+      "lat": 37.368084,
+      "lng": -121.8918648
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1176 AUZERAIS AVENUE",
+    "coordinates": {
+      "lat": 37.3207437,
+      "lng": -121.9096311
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1111 DELL AVE.",
+    "coordinates": {
+      "lat": 37.2708666,
+      "lng": -121.954305
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "60 E Sunnyoaks Ave. #7",
+    "coordinates": {
+      "lat": 37.2717971,
+      "lng": -121.9500732
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "3440 STANLEY BLVD.",
+    "coordinates": {
+      "lat": 37.6678763,
+      "lng": -121.8625453
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "4262 STANLEY BLVD",
+    "coordinates": {
+      "lat": 37.6656417,
+      "lng": -121.8726802
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1137 KERN AVE",
+    "coordinates": {
+      "lat": 37.3827474,
+      "lng": -121.9980465
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "3160 EL CAMINO REAL",
+    "coordinates": {
+      "lat": 37.3516956,
+      "lng": -121.9831902
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1288 FORGEWOOD AVENUE",
+    "coordinates": {
+      "lat": 37.40966239999999,
+      "lng": -121.9916097
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "7130 VILLAGE PARKWAY",
+    "coordinates": {
+      "lat": -34.09468390000001,
+      "lng": 18.9264524
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "6920 VILLAGE PKWY",
+    "coordinates": {
+      "lat": 37.7069412,
+      "lng": -121.9257529
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1955 San Ramon Valley Blvd",
+    "coordinates": {
+      "lat": 37.7855512,
+      "lng": -121.9812096
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "2944 Grove Way",
+    "coordinates": {
+      "lat": 37.6898048,
+      "lng": -122.0628979
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1880 WEST BAYSHORE ROAD",
+    "coordinates": {
+      "lat": 37.4541647,
+      "lng": -122.1309948
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "16338 E 14TH ST",
+    "coordinates": {
+      "lat": 37.6958058,
+      "lng": -122.1140682
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "560 E. Lewelling Blvd",
+    "coordinates": {
+      "lat": 37.6870443,
+      "lng": -122.113362
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "25087 MISSION BLVD.",
+    "coordinates": {
+      "lat": 37.6582205,
+      "lng": -122.0726704
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "22383 MEEKLAND AVE",
+    "coordinates": {
+      "lat": 37.6682192,
+      "lng": -122.1006719
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "830 Kaynyne Street",
+    "coordinates": {
+      "lat": 37.4837364,
+      "lng": -122.2112735
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "830 CASTRO STREET",
+    "coordinates": {
+      "lat": 37.38664869999999,
+      "lng": -122.0834093
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1026 EL CAMINO REAL",
+    "coordinates": {
+      "lat": 37.4840659,
+      "lng": -122.2328165
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "361 QUARRY RD",
+    "coordinates": {
+      "lat": 37.4407649,
+      "lng": -122.170504
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1438 OLD COUNTY RD",
+    "coordinates": {
+      "lat": 37.5163948,
+      "lng": -122.2699488
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1571 INDUSTRIAL PARKWAY W.",
+    "coordinates": {
+      "lat": 37.6183633,
+      "lng": -122.0645406
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1814 Everest St.",
+    "coordinates": {
+      "lat": -41.2486287,
+      "lng": 174.7929111
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1722 INTERNATIONAL BLVD",
+    "coordinates": {
+      "lat": 37.7875873,
+      "lng": -122.2424641
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "815 Woodside Way",
+    "coordinates": {
+      "lat": 37.5768902,
+      "lng": -122.3359095
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "925 BAYSWATER AVE",
+    "coordinates": {
+      "lat": 37.5784236,
+      "lng": -122.3396562
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "2840 BROADWAY,",
+    "coordinates": {
+      "lat": 37.7977897,
+      "lng": -122.4074424
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "903 California Dr.",
+    "coordinates": {
+      "lat": 37.584899,
+      "lng": -122.3578871
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "6426 SHATTUCK AVE",
+    "coordinates": {
+      "lat": 37.8501269,
+      "lng": -122.2655132
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1720 EL CAMINO REAL",
+    "coordinates": {
+      "lat": 37.3911059,
+      "lng": -122.0940476
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "482 SAN BRUNO AVE E",
+    "coordinates": {
+      "lat": 37.6306667,
+      "lng": -122.4088091
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1829 SAN PABLO AVE.",
+    "coordinates": {
+      "lat": 37.8710457,
+      "lng": -122.2923696
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1100 SAN MATEO AVENUE",
+    "coordinates": {
+      "lat": 37.6373831,
+      "lng": -122.411299
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1168 San Mateo Ave",
+    "coordinates": {
+      "lat": 37.6385042,
+      "lng": -122.4105946
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "215 SAN MATEO RD",
+    "coordinates": {
+      "lat": 37.468037,
+      "lng": -122.4283876
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1375 SAN PABLO AVE",
+    "coordinates": {
+      "lat": 37.879357,
+      "lng": -122.295116
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1223 San Pablo Ave",
+    "coordinates": {
+      "lat": 37.8815285,
+      "lng": -122.2958317
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "476 VICTORY AVE STE A",
+    "coordinates": {
+      "lat": 37.6482522,
+      "lng": -122.4181541
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "325 Victory Ave.",
+    "coordinates": {
+      "lat": 37.6464574,
+      "lng": -122.4144505
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "618 SAN PABLO AVE",
+    "coordinates": {
+      "lat": 37.8952718,
+      "lng": -122.300963
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "890 EL CAMINO REAL",
+    "coordinates": {
+      "lat": 37.6304704,
+      "lng": -122.4172125
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "5327 JACUZZI ST Suite 3A",
+    "coordinates": {
+      "lat": 37.8989832,
+      "lng": -122.3102916
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "12540 SAN PABLO AVE",
+    "coordinates": {
+      "lat": 37.9410824,
+      "lng": -122.3273956
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "450 POTRERO AVE",
+    "coordinates": {
+      "lat": 37.7637679,
+      "lng": -122.4077355
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1270 BUSH ST",
+    "coordinates": {
+      "lat": 37.7886722,
+      "lng": -122.4181232
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1419 PACIFIC AVE",
+    "coordinates": {
+      "lat": 37.7951624,
+      "lng": -122.4187509
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "460 EDDY STREET",
+    "coordinates": {
+      "lat": 37.7837888,
+      "lng": -122.4152559
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "351 VALENCIA ST.",
+    "coordinates": {
+      "lat": 37.7673056,
+      "lng": -122.4218176
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "2925 MISSION STREET",
+    "coordinates": {
+      "lat": 37.7501561,
+      "lng": -122.4179304
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "955 CESAR CHAVEZ STREET",
+    "coordinates": {
+      "lat": 37.7501505,
+      "lng": -122.3869269
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "145 INDUSTRIAL ST",
+    "coordinates": {
+      "lat": 37.7387592,
+      "lng": -122.4032336
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "7323 Mission Street",
+    "coordinates": {
+      "lat": 37.6910795,
+      "lng": -122.4651895
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "7031 MISSION ST",
+    "coordinates": {
+      "lat": 37.6952193,
+      "lng": -122.464371
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "2535 CLEMENT ST.",
+    "coordinates": {
+      "lat": 37.7818307,
+      "lng": -122.4865683
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "18 LA GOMA ST",
+    "coordinates": {
+      "lat": 37.8977597,
+      "lng": -122.5362576
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "3536 SACRAMENTO, san francisco",
+    "coordinates": {
+      "lat": 37.7879201,
+      "lng": -122.4511028
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "597 W Taylor StSan Jose, CA 95110",
+    "coordinates": {
+      "lat": 37.3419316,
+      "lng": -121.9123226
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "3 Wyoming St Ste 170. Pleasanton, CA",
+    "coordinates": {
+      "lat": 37.6692062,
+      "lng": -121.8602521
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "118 Monterey RdPacifica, CA 94044",
+    "coordinates": {
+      "lat": 37.6518299,
+      "lng": -122.4915644
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1600 Industrial RdSan Carlos, CA 94070",
+    "coordinates": {
+      "lat": 37.4993752,
+      "lng": -122.2434846
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "185 Bayshore BlvdSan Francisco, CA 94124",
+    "coordinates": {
+      "lat": 37.7454536,
+      "lng": -122.4036099
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "4878 Davenport PlFremont, CA 94538",
+    "coordinates": {
+      "lat": 37.5070667,
+      "lng": -121.9644373
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "166 Wisconsin St San Francisco, CA 94107",
+    "coordinates": {
+      "lat": 37.7654034,
+      "lng": -122.4002687
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "25571 Dollar St Hayward, CA 94544",
+    "coordinates": {
+      "lat": 37.6541797,
+      "lng": -122.0719646
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1850 Industrial Way. Redwood City",
+    "coordinates": {
+      "lat": 37.4973638,
+      "lng": -122.2390387
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "401 1St Ave, San Mateo, CA 94401",
+    "coordinates": {
+      "lat": 37.56789089999999,
+      "lng": -122.3233072
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1049 9th Ave. Oakland, CA 94606",
+    "coordinates": {
+      "lat": 37.79147500000001,
+      "lng": -122.2529075
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "1349 9th Ave. San Francisco, CA 94122",
+    "coordinates": {
+      "lat": 37.7631381,
+      "lng": -122.4666041
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "501 9Th Ave, San Mateo, CA 94402",
+    "coordinates": {
+      "lat": 37.5629247,
+      "lng": -122.3164889
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "2201 Palm Ave, San Mateo, CA, 94403",
+    "coordinates": {
+      "lat": 37.5471492,
+      "lng": -122.3061007
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "460 Talbert St, Daly City, CA 94014",
+    "coordinates": {
+      "lat": 37.7075292,
+      "lng": -122.4089692
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "2510 Martin Luther King Jr Way, Oakland, CA 94612",
+    "coordinates": {
+      "lat": 37.8152461,
+      "lng": -122.2718134
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "2130 90th Ave. Oakland, CA 94603",
+    "coordinates": {
+      "lat": 37.7531481,
+      "lng": -122.1657353
+    },
+    "radius": 5000,
+    "circleColor": "red",
+    "dotColor": "black",
+    "tag": "",
+    "numOfCars": "",
+    "showCircle": true
+  },
+  {
+    "address": "33310 Bailey Park Blvd, Menifee, CA 92584",
+    "tag": "Exclusive Autobody & Customs",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "5",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.6374788,
+      "lng": -117.1729944
+    }
+  },
+  {
+    "address": "33575 Mission Trail",
+    "tag": "Kinetic",
+    "circleColor": "green",
+    "dotColor": "purple",
+    "radius": 10000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.6334211,
+      "lng": -117.2921555
+    }
+  },
+  {
+    "address": "29738 Haun Rd, Menifee, CA 92586",
+    "tag": "Gerber Menifee",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "50",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.6900317,
+      "lng": -117.1755053
+    }
+  },
+  {
+    "address": "29385 Hunco Way, Lake Elsinore, CA 92530",
+    "tag": "Gerber Lake Elsinore",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "20",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.690963,
+      "lng": -117.3439733
+    }
+  },
+  {
+    "address": "32839 Temecula Pkwy STE B, Temecula, CA 92592",
+    "tag": "Fix Auto Temecula South",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "2",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.4846152,
+      "lng": -117.0828079
+    }
+  },
+  {
+    "address": "23143 Temescal Canyon Rd Ste A, Corona, CA 92883",
+    "tag": "Gerber Corona",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "15",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.7830663,
+      "lng": -117.4895701
+    }
+  },
+  {
+    "address": "41674 Corning Pl, Murrieta, CA 92562",
+    "tag": "Gerber Corona",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "12",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.5303695,
+      "lng": -117.1817141
+    }
+  },
+  {
+    "address": "1052 Railroad St, Corona, CA 92882",
+    "tag": "MB Collision Corona",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "2",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.8865025,
+      "lng": -117.5807277
+    }
+  },
+  {
+    "address": "27793 Jackson Ave., Menifee, CA 92585",
+    "tag": "Menifee Collision",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "5",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.7446492,
+      "lng": -117.1753837
+    }
+  },
+  {
+    "address": "29770 Bradley Road E, Menifee, CA 92586",
+    "tag": "Los De Santiagos Auto Body",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "5",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.6882938,
+      "lng": -117.186994
+    }
+  },
+  {
+    "address": "25695 Jefferson Ave Suite 7, Murrieta, CA 92562",
+    "tag": "Ikon Auto Collision",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "5",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.5427701,
+      "lng": -117.1934211
+    }
+  },
+  {
+    "address": "25695 Jefferson Ave #11, Murrieta, CA 92562",
+    "tag": "RP Paint Studios & Collision",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "5",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.5429674,
+      "lng": -117.1931763
+    }
+  },
+  {
+    "address": "Murrieta Auto Collision",
+    "tag": "41218 Nick Ln, Murrieta, CA 92562",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "6",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.534354,
+      "lng": -117.1747326
+    }
+  },
+  {
+    "address": "27535 Enterprise Cir W, Temecula, CA 92590",
+    "tag": "Rancho California Auto Collision",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "4",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.51387649999999,
+      "lng": -117.1635534
+    }
+  },
+  {
+    "address": "500 Chaney St STE I, Lake Elsinore, CA 92530",
+    "tag": "Silver Auto Collision",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "4",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.6795649,
+      "lng": -117.3389262
+    }
+  },
+  {
+    "address": "18560 Pasadena St, Lake Elsinore, CA 92530",
+    "tag": "Fix Auto Lake Elsinore",
+    "circleColor": "orange",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "17",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.6860556,
+      "lng": -117.3391412
+    }
+  },
+  {
+    "address": "18425 Pasadena St, Lake Elsinore, CA 92530",
+    "tag": "Collision Pros Auto Body & Paint",
+    "circleColor": "orange",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "18",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.6866617,
+      "lng": -117.342509
+    }
+  },
+  {
+    "address": "328 E Commercial St Suites #108-109 San Bernardino, CA 92408",
+    "tag": "Kinetic",
+    "circleColor": "orange",
+    "dotColor": "purple",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0564896,
+      "lng": -117.2779696
+    }
+  },
+  {
+    "address": "939 W 1600 S Suites #3-4 Clearfield, UT 84015",
+    "tag": "",
+    "circleColor": "orange",
+    "dotColor": "purple",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.0901349,
+      "lng": -112.044118
+    }
+  },
+  {
+    "address": "1266 N Main St, Layton, UT 84041",
+    "tag": "Young Layton",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "15",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.07923359999999,
+      "lng": -111.9835892
+    }
+  },
+  {
+    "address": "1193 W Wilson Ln, Ogden, UT 84401",
+    "tag": "Young Ogden",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "13",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.227795,
+      "lng": -112.008699
+    }
+  },
+  {
+    "address": "645 Main St, Layton, UT 84041",
+    "tag": "Young Chevrolet",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "13",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.0452158,
+      "lng": -111.9514346
+    }
+  },
+  {
+    "address": "2363 S 1900 W, Ogden, UT 84401",
+    "tag": "ADS ",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "5",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.2236198,
+      "lng": -112.0262709
+    }
+  },
+  {
+    "address": "650 W 1700 S, Clearfield, UT 84015",
+    "tag": "Gerber Collision & Glass",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "3",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.0895178,
+      "lng": -112.0381847
+    }
+  },
+  {
+    "address": "Maaco Layton",
+    "tag": "Maaco",
+    "circleColor": "orange",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "5",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.0695636,
+      "lng": -111.9898049
+    }
+  },
+  {
+    "address": "Crazy Color Auto Body ",
+    "tag": "Crazy color",
+    "circleColor": "orange",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "5",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.1026687,
+      "lng": -111.9486007
+    }
+  },
+  {
+    "address": "2675 Industrial Drive, #302 Ogden, Utah 84401",
+    "tag": "Ogden body shop",
+    "circleColor": "orange",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "4",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.2176762,
+      "lng": -112.0139686
+    }
+  },
+  {
+    "address": "3767 Pacific Avenue, Ogden, Utah 84405",
+    "tag": "Straight Line",
+    "circleColor": "orange",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "4",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.1930177,
+      "lng": -111.9858216
+    }
+  },
+  {
+    "address": "900 West Riverdale Road, Riverdale, UT 84405",
+    "tag": "Ken Garf",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "25",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.179051,
+      "lng": -112.0022502
+    }
+  },
+  {
+    "address": "2236 South 2700 West, West Valley City, UT 84119",
+    "tag": "West Valey",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "21",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.7227128,
+      "lng": -111.9580747
+    }
+  },
+  {
+    "address": "132 North Redwood Road North Salt Lake, Utah 84054",
+    "tag": "Higgins",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "4",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.8451706,
+      "lng": -111.929616
+    }
+  },
+  {
+    "address": "6580 Spencer St Suite #B-5 Las Vegas, NV 89119",
+    "tag": "Kinetic",
+    "circleColor": "yellow",
+    "dotColor": "purple",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.0698941,
+      "lng": -115.1267116
+    }
+  },
+  {
+    "address": "2350 Silver Wolf Dr",
+    "tag": "(CSAA)Frank's Auto Body - Silver Wolf",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.0704775,
+      "lng": -114.9984297
+    }
+  },
+  {
+    "address": "240 N GIBSON RD",
+    "tag": "(CSAA) HENDERSON CHEVROLET",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.04605859999999,
+      "lng": -115.0275668
+    }
+  },
+  {
+    "address": "8535 W Centennial Pkwy, Las Vegas, NV 89149",
+    "tag": "Jim Marsh",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.2762842,
+      "lng": -115.2801741
+    }
+  },
+  {
+    "address": "4125 Sobb Ave #120, Las Vegas, NV 89118",
+    "tag": "Southwest Auto Body",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.0768455,
+      "lng": -115.1949413
+    }
+  },
+  {
+    "address": "327 Kiesel Ave",
+    "tag": "(CSAA) Valley Collision - VC7",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.2416245,
+      "lng": -111.9704784
+    }
+  },
+  {
+    "address": "3520 WALL AVE",
+    "tag": "(CSAA) Cascade",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.1994543,
+      "lng": -111.9787473
+    }
+  },
+  {
+    "address": "8689 Red Oak St, Rancho Cucamonga, CA 91730",
+    "tag": "MB Collision",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "26",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0948943,
+      "lng": -117.5685242
+    }
+  },
+  {
+    "address": "301 E Stuart Ave, Redlands, CA 92374",
+    "tag": "Banda",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "4",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0599315,
+      "lng": -117.179131
+    }
+  },
+  {
+    "address": "1976 Essex Ct, Redlands, CA 92373",
+    "tag": "Fix Auto Redlands",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0619069,
+      "lng": -117.2213882
+    }
+  },
+  {
+    "address": "280 E 5th St, San Bernardino, CA 92410",
+    "tag": "Genuine custom",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.1085686,
+      "lng": -117.2797818
+    }
+  },
+  {
+    "address": "2075 S Riverside Ave, Bloomington, CA 92316",
+    "tag": "Fix Auto Bloomington",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0639583,
+      "lng": -117.3698348
+    }
+  },
+  {
+    "address": "275 S E St, San Bernardino, CA 92401",
+    "tag": "Empire Collision",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0965207,
+      "lng": -117.2935614
+    }
+  },
+  {
+    "address": "1655 Industrial Park Ave, Redlands, CA 92374",
+    "tag": "Dynamic Collision",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0656521,
+      "lng": -117.2112161
+    }
+  },
+  {
+    "address": "14441 Commerce Center Dr, Moreno Valley, CA 92553",
+    "tag": "Fix Auto Moreno",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "20",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.9112012,
+      "lng": -117.2750457
+    }
+  },
+  {
+    "address": "26847 Base Line St, Highland, CA 92346",
+    "tag": "Gerber Highland",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "27",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.1208874,
+      "lng": -117.2185099
+    }
+  },
+  {
+    "address": "12190 La Crosse Ave, Grand Terrace, CA 92313",
+    "tag": "Gerber Grand Terrance",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "9",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0324666,
+      "lng": -117.3277242
+    }
+  },
+  {
+    "address": "14156 Business Center Dr, Moreno Valley, CA 92553",
+    "tag": "Gerber Moreno Valley",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "14",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.9139137,
+      "lng": -117.2710102
+    }
+  },
+  {
+    "address": "1790 S E St, San Bernardino, CA 92408",
+    "tag": "Gerber San Bernardino",
+    "circleColor": "yellow",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "20",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0693027,
+      "lng": -117.2946665
+    }
+  },
+  {
+    "address": "6151 Quail Valley Ct, Riverside, CA 92507",
+    "tag": "Gerber Riverside Quail",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "10",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.9401818,
+      "lng": -117.2959734
+    }
+  },
+  {
+    "address": "2523 Main St, Riverside, CA 92501",
+    "tag": "Gerber Riverside Main St",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "6",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.9934602,
+      "lng": -117.3679554
+    }
+  },
+  {
+    "address": "705 W Colton Ave, Redlands, CA 92374",
+    "tag": "Gerber Redlands",
+    "circleColor": "purple",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "19",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0626317,
+      "lng": -117.1903695
+    }
+  },
+  {
+    "address": " 236 Industrial Rd, San Carlos, CA 94070",
+    "tag": "Kinetic",
+    "circleColor": "purple",
+    "dotColor": "purple",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5182698,
+      "lng": -122.2644857
+    }
+  },
+  {
+    "address": "361 QUARRY RD, SAN CARLOS, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5181511,
+      "lng": -122.2658
+    }
+  },
+  {
+    "address": "1438 OLD COUNTY RD, BELMONT, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5163948,
+      "lng": -122.2699488
+    }
+  },
+  {
+    "address": "1600 INDUSTRIAL ROAD, SAN CARLOS, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.4993752,
+      "lng": -122.2434846
+    }
+  },
+  {
+    "address": "1850 Industrial Way, Redwood City, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.4973638,
+      "lng": -122.2390387
+    }
+  },
+  {
+    "address": "1026 EL CAMINO REAL, REDWOOD CITY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.4840659,
+      "lng": -122.2328165
+    }
+  },
+  {
+    "address": "830 Kaynyne Street, REDWOOD CITY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.4837364,
+      "lng": -122.2112735
+    }
+  },
+  {
+    "address": "1023 S RAILROAD AVE, SAN MATEO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5604636,
+      "lng": -122.3149204
+    }
+  },
+  {
+    "address": "2201 PALM AVE, SAN MATEO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5471492,
+      "lng": -122.3061007
+    }
+  },
+  {
+    "address": "501 9th Ave, San Mateo, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5629247,
+      "lng": -122.3164889
+    }
+  },
+  {
+    "address": "2740 BAY ROAD, REDWOOD CITY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.48364189999999,
+      "lng": -122.2058898
+    }
+  },
+  {
+    "address": "401 1ST AVE, SAN MATEO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.56789089999999,
+      "lng": -122.3233072
+    }
+  },
+  {
+    "address": "815 Woodside Way, San Mateo, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5768902,
+      "lng": -122.3359095
+    }
+  },
+  {
+    "address": "925 BAYSWATER AVE, BURLINGAME, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5784236,
+      "lng": -122.3396562
+    }
+  },
+  {
+    "address": "1880 WEST BAYSHORE ROAD, PALO ALTO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.4541647,
+      "lng": -122.1309948
+    }
+  },
+  {
+    "address": "903 California Dr., BURLINGAME, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.584899,
+      "lng": -122.3578871
+    }
+  },
+  {
+    "address": "1720 EL CAMINO REAL, SAN BRUNO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6144684,
+      "lng": -122.4050383
+    }
+  },
+  {
+    "address": "482 SAN BRUNO AVE E, SAN BRUNO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6306667,
+      "lng": -122.4088091
+    }
+  },
+  {
+    "address": "1100 SAN MATEO AVENUE, SOUTH SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6373831,
+      "lng": -122.411299
+    }
+  },
+  {
+    "address": "1168 San Mateo Ave, South San Francisco, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6385042,
+      "lng": -122.4105946
+    }
+  },
+  {
+    "address": "476 VICTORY AVE STE A, SOUTH SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6482522,
+      "lng": -122.4181541
+    }
+  },
+  {
+    "address": "325 Victory Ave., SOUTH SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6464574,
+      "lng": -122.4144505
+    }
+  },
+  {
+    "address": "890 EL CAMINO REAL, SOUTH SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6530326,
+      "lng": -122.4319044
+    }
+  },
+  {
+    "address": "215 SAN MATEO RD, HALF MOON BAY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.468037,
+      "lng": -122.4283876
+    }
+  },
+  {
+    "address": "1137 KERN AVE, Sunnyvale, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3827474,
+      "lng": -121.9980465
+    }
+  },
+  {
+    "address": "1288 FORGEWOOD AVENUE, SUNNYVALE, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.40966239999999,
+      "lng": -121.9916097
+    }
+  },
+  {
+    "address": "460 Talbert Street, Daly City, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7075292,
+      "lng": -122.4089692
+    }
+  },
+  {
+    "address": "25087 MISSION BLVD., HAYWARD, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6582205,
+      "lng": -122.0726704
+    }
+  },
+  {
+    "address": "25571 DOLLAR STREET, HAYWARD, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6541797,
+      "lng": -122.0719646
+    }
+  },
+  {
+    "address": "22383 MEEKLAND AVE, HAYWARD, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6682192,
+      "lng": -122.1006719
+    }
+  },
+  {
+    "address": "1571 INDUSTRIAL PARKWAY W., HAYWARD, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6183633,
+      "lng": -122.0645406
+    }
+  },
+  {
+    "address": "7323 Mission Street, DALY CITY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6910795,
+      "lng": -122.4651895
+    }
+  },
+  {
+    "address": "636 A STREET, Hayward, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.671561,
+      "lng": -122.0893722
+    }
+  },
+  {
+    "address": "3160 EL CAMINO REAL, SANTA CLARA, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3516956,
+      "lng": -121.9831902
+    }
+  },
+  {
+    "address": "145 INDUSTRIAL ST, SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7387592,
+      "lng": -122.4032336
+    }
+  },
+  {
+    "address": "7031 MISSION ST, DALY CITY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6952193,
+      "lng": -122.464371
+    }
+  },
+  {
+    "address": "800 Comstock St., Santa Clara, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3744833,
+      "lng": -121.9487428
+    }
+  },
+  {
+    "address": "3242 DE LA CRUZ BLVDE, SANTA CLARA, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3827317,
+      "lng": -121.9426888
+    }
+  },
+  {
+    "address": "118 MONTEREY RD, PACIFICA, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6518299,
+      "lng": -122.4915644
+    }
+  },
+  {
+    "address": "185 Bayshore, SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7454536,
+      "lng": -122.4036099
+    }
+  },
+  {
+    "address": "4878 DAVENPORT PL., FREMONT, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5070667,
+      "lng": -121.9644373
+    }
+  },
+  {
+    "address": "530 Reed St, Santa Clara, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3599753,
+      "lng": -121.9422344
+    }
+  },
+  {
+    "address": "955 CESAR CHAVEZ STREET, SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7501505,
+      "lng": -122.3869269
+    }
+  },
+  {
+    "address": "2925 MISSION STREET, SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7501561,
+      "lng": -122.4179304
+    }
+  },
+  {
+    "address": "1420 N 4th St, San Jose, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3639805,
+      "lng": -121.9063907
+    }
+  },
+  {
+    "address": "450 POTRERO AVE, SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7637679,
+      "lng": -122.4077355
+    }
+  },
+  {
+    "address": "166 WISCONSIN ST, SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7654034,
+      "lng": -122.4002687
+    }
+  },
+  {
+    "address": "560 E. Lewelling Blvd, San Lorenzo, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6870443,
+      "lng": -122.113362
+    }
+  },
+  {
+    "address": "16338 E 14TH ST, SAN LEANDRO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6958058,
+      "lng": -122.1140682
+    }
+  },
+  {
+    "address": "1320 Oakland Rd, San Jose, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.368084,
+      "lng": -121.8918648
+    }
+  },
+  {
+    "address": "830 CASTRO STREET, SAN LEANDRO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7165927,
+      "lng": -122.1605018
+    }
+  },
+  {
+    "address": "597 W. TAYLOR ST., SAN JOSE, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3419316,
+      "lng": -121.9123226
+    }
+  },
+  {
+    "address": "351 VALENCIA ST., SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7673056,
+      "lng": -122.4218176
+    }
+  },
+  {
+    "address": "460 EDDY STREET, SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7837888,
+      "lng": -122.4152559
+    }
+  },
+  {
+    "address": "1270 BUSH ST, SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7886722,
+      "lng": -122.4181232
+    }
+  },
+  {
+    "address": "1419 PACIFIC AVE, SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7951624,
+      "lng": -122.4187509
+    }
+  },
+  {
+    "address": "575 W SAN CARLOS ST, SAN JOSE, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3255021,
+      "lng": -121.8997948
+    }
+  },
+  {
+    "address": "2944 Grove Way, CASTRO VALLEY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6898048,
+      "lng": -122.0628979
+    }
+  },
+  {
+    "address": "1349 9TH AVE, SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7631381,
+      "lng": -122.4666041
+    }
+  },
+  {
+    "address": "2535 CLEMENT ST., SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7818307,
+      "lng": -122.4865683
+    }
+  },
+  {
+    "address": "3536 SACRAMENTO, SAN FRANCISCO, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7879201,
+      "lng": -122.4511028
+    }
+  },
+  {
+    "address": "1176 AUZERAIS AVENUE, SAN JOSE, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3207437,
+      "lng": -121.9096311
+    }
+  },
+  {
+    "address": "1111 DELL AVE., CAMPBELL, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.2708666,
+      "lng": -121.954305
+    }
+  },
+  {
+    "address": "419 ORTO ST, SAN JOSE, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3052597,
+      "lng": -121.8763326
+    }
+  },
+  {
+    "address": "2130 90TH AVE, OAKLAND, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7531481,
+      "lng": -122.1657353
+    }
+  },
+  {
+    "address": "60 E Sunnyoaks Ave. #7, Campbell, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.2717971,
+      "lng": -121.9500732
+    }
+  },
+  {
+    "address": "280 Cimino St, SAN JOSE, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3024201,
+      "lng": -121.870973
+    }
+  },
+  {
+    "address": "1814 Everest St., ALAMEDA, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7798721,
+      "lng": -122.2821855
+    }
+  },
+  {
+    "address": "385 Tully Rd, San Jose, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3060681,
+      "lng": -121.8513685
+    }
+  },
+  {
+    "address": "2973 S KING RD, SAN JOSE, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3105479,
+      "lng": -121.8143244
+    }
+  },
+  {
+    "address": "1722 INTERNATIONAL BLVD, OAKLAND, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7875873,
+      "lng": -122.2424641
+    }
+  },
+  {
+    "address": "1049 9TH AVENUE, OAKLAND, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.79147500000001,
+      "lng": -122.2529075
+    }
+  },
+  {
+    "address": "5761 WINFIELD BLVD, SAN JOSE, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.2481971,
+      "lng": -121.8680155
+    }
+  },
+  {
+    "address": "1341 REDMOND AVE, SAN JOSE, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.22855089999999,
+      "lng": -121.885367
+    }
+  },
+  {
+    "address": "4234 MONTEREY RD., SAN JOSE, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.2761739,
+      "lng": -121.8320419
+    }
+  },
+  {
+    "address": "2510 MARTIN LUTHER KING JR WAY, OAKLAND, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8152461,
+      "lng": -122.2718134
+    }
+  },
+  {
+    "address": "5512 MARTIN LUTHER KING JR WAY, OAKLAND, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8402642,
+      "lng": -122.2693486
+    }
+  },
+  {
+    "address": "2840 BROADWAY,, OAKLAND, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8167645,
+      "lng": -122.262591
+    }
+  },
+  {
+    "address": "2070 SECOND STREET, BERKELEY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8662263,
+      "lng": -122.3021955
+    }
+  },
+  {
+    "address": "7130 VILLAGE PARKWAY, DUBLIN, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7089808,
+      "lng": -121.9272698
+    }
+  },
+  {
+    "address": "6920 VILLAGE PKWY, DUBLIN, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7070274,
+      "lng": -121.9254379
+    }
+  },
+  {
+    "address": "6426 SHATTUCK AVE, OAKLAND, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8501269,
+      "lng": -122.2655132
+    }
+  },
+  {
+    "address": "1829 SAN PABLO AVE., BERKELEY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8710457,
+      "lng": -122.2923696
+    }
+  },
+  {
+    "address": "1955 San Ramon Valley Blvd, San Ramon, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7855512,
+      "lng": -121.9812096
+    }
+  },
+  {
+    "address": "1239 Fifth Street, BERKELEY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8796878,
+      "lng": -122.3024783
+    }
+  },
+  {
+    "address": "1375 SAN PABLO AVE, BERKELEY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.879357,
+      "lng": -122.295116
+    }
+  },
+  {
+    "address": "1223 San Pablo Ave, BERKELEY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8815285,
+      "lng": -122.2958317
+    }
+  },
+  {
+    "address": "618 SAN PABLO AVE, ALBANY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8952718,
+      "lng": -122.300963
+    }
+  },
+  {
+    "address": "5327 JACUZZI ST Suite 3A, RICHMOND, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8989832,
+      "lng": -122.3102916
+    }
+  },
+  {
+    "address": "18 LA GOMA ST, MILL VALLEY, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8977597,
+      "lng": -122.5362576
+    }
+  },
+  {
+    "address": "4262 STANLEY BLVD, PLEASANTON, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6656417,
+      "lng": -121.8726802
+    }
+  },
+  {
+    "address": "12540 SAN PABLO AVE, RICHMOND, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9410824,
+      "lng": -122.3273956
+    }
+  },
+  {
+    "address": "3440 STANLEY BLVD., PLEASANTON, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6678763,
+      "lng": -121.8625453
+    }
+  },
+  {
+    "address": "3 WYOMING ST SUITE 170, PLEASANTON, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6692062,
+      "lng": -121.8602521
+    }
+  },
+  {
+    "address": "405 24TH STREET, RICHMOND, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9369225,
+      "lng": -122.3464879
+    }
+  },
+  {
+    "address": "2218 Market Ave., San Pablo, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9567392,
+      "lng": -122.3478002
+    }
+  },
+  {
+    "address": "1041 HENSLEY STREET, RICHMOND, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9470536,
+      "lng": -122.3661555
+    }
+  },
+  {
+    "address": "5500 Scotts Valley Dr, Scotts Valley, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.059768,
+      "lng": -122.0088649
+    }
+  },
+  {
+    "address": "3001 Richmond Pkwy, RICHMOND, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.991029,
+      "lng": -122.3308323
+    }
+  },
+  {
+    "address": "16170 JACQUELINE CT., MORGAN HILL, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.1197808,
+      "lng": -121.6367772
+    }
+  },
+  {
+    "address": "2645 N MAIN STREET, WALNUT CREEK, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9204449,
+      "lng": -122.0652227
+    }
+  },
+  {
+    "address": "3241 KERNER BLVD BLDG B, SAN RAFAEL, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9604888,
+      "lng": -122.5023986
+    }
+  },
+  {
+    "address": "36 FRONT STREET, SAN RAFAEL, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9646351,
+      "lng": -122.5107319
+    }
+  },
+  {
+    "address": "102 MILL STREET, SAN RAFAEL, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9658304,
+      "lng": -122.5108335
+    }
+  },
+  {
+    "address": "191 MILL ST, SAN RAFAEL, CA",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.966014,
+      "lng": -122.512344
+    }
+  },
+  {
+    "address": "2901 S. HIGHLAND DRIVE unit 3, LAS VEGAS, NV",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.1385001,
+      "lng": -115.1730626
+    }
+  },
+  {
+    "address": "240 N GIBSON RD, HENDERSON, NV",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.04605859999999,
+      "lng": -115.0275668
+    }
+  },
+  {
+    "address": "3420 PRECISION DRIVE, NORTH LAS VEGAS, NV",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.2217867,
+      "lng": -115.1730822
+    }
+  },
+  {
+    "address": "4080 BOULDER HWY, LAS VEGAS, NV",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.1312961,
+      "lng": -115.0862361
+    }
+  },
+  {
+    "address": "970 Empire Mesa Way, Henderson, NV",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.0701136,
+      "lng": -115.0251906
+    }
+  },
+  {
+    "address": "2350 Silver Wolf Dr, Henderson, NV",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.0704775,
+      "lng": -114.9984297
+    }
+  },
+  {
+    "address": "2738 S 2700 W, West Valley City, UT",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.7104879,
+      "lng": -111.9580399
+    }
+  },
+  {
+    "address": "9285 S. Hawley Park Road #3, West Jordan, UT",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.5827028,
+      "lng": -112.0236198
+    }
+  },
+  {
+    "address": "20 E 900 S, Salt Lake City, UT",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.7488122,
+      "lng": -111.8904261
+    }
+  },
+  {
+    "address": "798 W. CENTER, MIDVALE, UT",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.6108438,
+      "lng": -111.9126375
+    }
+  },
+  {
+    "address": "11521 S. REDWOOD RD, SOUTH JORDAN, UT",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.5417276,
+      "lng": -111.9381968
+    }
+  },
+  {
+    "address": "3520 WALL AVE, OGDEN, UT",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.1994543,
+      "lng": -111.9787473
+    }
+  },
+  {
+    "address": "1193 WEST WILSON LANE, OGDEN, UT",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.227795,
+      "lng": -112.008699
+    }
+  },
+  {
+    "address": "327 Kiesel Ave, Ogden, UT",
+    "tag": "CSAA",
+    "circleColor": "red",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 41.2416245,
+      "lng": -111.9704784
+    }
+  },
+  {
+    "address": "1111 N UNION ST, STOCKTON, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9675715,
+      "lng": -121.2804533
+    }
+  },
+  {
+    "address": "348 Washington St, EL SEGUNDO, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.9207409,
+      "lng": -118.3991066
+    }
+  },
+  {
+    "address": "6426 Shattuck Ave, Oakland, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8501269,
+      "lng": -122.2655132
+    }
+  },
+  {
+    "address": "949 W Del Norte St, Eureka, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.7901913,
+      "lng": -124.181991
+    }
+  },
+  {
+    "address": "2453 E COLORADO BLVD, PASADENA, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.1464025,
+      "lng": -118.0997402
+    }
+  },
+  {
+    "address": "560 E LEWELLING BLVD, SAN LORENZO, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6870443,
+      "lng": -122.113362
+    }
+  },
+  {
+    "address": "2780 W Wooley Rd, Oxnard, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.1897633,
+      "lng": -119.2066761
+    }
+  },
+  {
+    "address": "201 SCHOOL ST, DALY CITY, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6930255,
+      "lng": -122.4694572
+    }
+  },
+  {
+    "address": "3075 LOS FELIZ DR, THOUSAND OAKS, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.1715716,
+      "lng": -118.8340258
+    }
+  },
+  {
+    "address": "3500 E La Palma Ave, Anaheim, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.8542708,
+      "lng": -117.8420409
+    }
+  },
+  {
+    "address": "4262 Stanley Blvd, Pleasanton, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6656417,
+      "lng": -121.8726802
+    }
+  },
+  {
+    "address": "24100 Vermont Ave, Harbor City, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.806231,
+      "lng": -118.2898005
+    }
+  },
+  {
+    "address": "1835 FOLSOM ST, San Francisco, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7679315,
+      "lng": -122.4151808
+    }
+  },
+  {
+    "address": "1221 Rollins Rd, BURLINGAME, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5891435,
+      "lng": -122.3633893
+    }
+  },
+  {
+    "address": "361 Quarry Rd, San Carlos, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5181511,
+      "lng": -122.2658
+    }
+  },
+  {
+    "address": "112 S Linden Ave, South San Francisco, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.64603049999999,
+      "lng": -122.4137542
+    }
+  },
+  {
+    "address": "1605 E GRAND AVE, EL SEGUNDO, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.9198773,
+      "lng": -118.3986762
+    }
+  },
+  {
+    "address": "1917 NAVY DR, STOCKTON, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9380497,
+      "lng": -121.3159755
+    }
+  },
+  {
+    "address": "1168 SAN MATEO AVE, SOUTH SAN FRANCISCO, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6385042,
+      "lng": -122.4105946
+    }
+  },
+  {
+    "address": "4645 Lankershim Blvd, North Hollywood, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.1551519,
+      "lng": -118.3690677
+    }
+  },
+  {
+    "address": "36 FRONT ST, SAN RAFAEL, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9646351,
+      "lng": -122.5107319
+    }
+  },
+  {
+    "address": "17070 Gale Ave, City Of Industry, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.9990717,
+      "lng": -117.9345499
+    }
+  },
+  {
+    "address": "1239 5th St, Berkeley, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8796878,
+      "lng": -122.3024783
+    }
+  },
+  {
+    "address": "1013 S La Brea Ave, Los Angeles, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0566713,
+      "lng": -118.3463318
+    }
+  },
+  {
+    "address": "266 Soscol Ave, Napa, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.284488,
+      "lng": -122.2739855
+    }
+  },
+  {
+    "address": "1404 F ST, MARYSVILLE, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 39.1505196,
+      "lng": -121.5939802
+    }
+  },
+  {
+    "address": "12456 Lambert Rd, Whittier, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.9657656,
+      "lng": -118.0476714
+    }
+  },
+  {
+    "address": "1970 REPUBLIC AVE, SAN LEANDRO, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7040607,
+      "lng": -122.1716337
+    }
+  },
+  {
+    "address": "26341 DIMENSION DR, Lake Forest, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.6619721,
+      "lng": -117.6703179
+    }
+  },
+  {
+    "address": "166 Wisconsin St, San Francisco, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7654034,
+      "lng": -122.4002687
+    }
+  },
+  {
+    "address": "285 COUCH ST, VALLEJO, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.1192493,
+      "lng": -122.2524166
+    }
+  },
+  {
+    "address": "23726 VIA FABRICANTE, MISSION VIEJO, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.6183405,
+      "lng": -117.6833098
+    }
+  },
+  {
+    "address": "1441 N Gaffey St, San Pedro, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.7574036,
+      "lng": -118.2926757
+    }
+  },
+  {
+    "address": "5835 Mission Gorge Rd Ste A, San Diego, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 32.7814262,
+      "lng": -117.100133
+    }
+  },
+  {
+    "address": "127 Calle de Los Molinos, San Clemente, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.4332743,
+      "lng": -117.6261568
+    }
+  },
+  {
+    "address": "2420 E MCKINLEY AVE, FRESNO, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.7647059,
+      "lng": -119.7822762
+    }
+  },
+  {
+    "address": "1579 E CYPRESS AVE, REDDING, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.57049629999999,
+      "lng": -122.341574
+    }
+  },
+  {
+    "address": "191 Mill St, San Rafael, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.966014,
+      "lng": -122.512344
+    }
+  },
+  {
+    "address": "4680 PACIFIC ST, ROCKLIN, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.7975414,
+      "lng": -121.2304996
+    }
+  },
+  {
+    "address": "5761 POWER INN RD, SACRAMENTO, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.5219504,
+      "lng": -121.4084795
+    }
+  },
+  {
+    "address": "7473 El Cajon Blvd, La Mesa, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 32.76738100000001,
+      "lng": -117.0366843
+    }
+  },
+  {
+    "address": "45379 N DIVISION ST, LANCASTER, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.7072303,
+      "lng": -118.1308748
+    }
+  },
+  {
+    "address": "351 VALENCIA ST, SAN FRANCISCO, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7673056,
+      "lng": -122.4218176
+    }
+  },
+  {
+    "address": "1150 Auto Center Cir, Salinas, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.7153656,
+      "lng": -121.6639249
+    }
+  },
+  {
+    "address": "2973 S KING RD, San Jose, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3105479,
+      "lng": -121.8143244
+    }
+  },
+  {
+    "address": "896 LAKEVILLE ST, PETALUMA, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.2347343,
+      "lng": -122.6256397
+    }
+  },
+  {
+    "address": "15106 OXNARD ST, VAN NUYS, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.1788165,
+      "lng": -118.4622586
+    }
+  },
+  {
+    "address": "1200 Del Paso Rd Ste 140, Sacramento, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.6556135,
+      "lng": -121.48848
+    }
+  },
+  {
+    "address": "9634 FIRESTONE BLVD, DOWNEY, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.9285346,
+      "lng": -118.111537
+    }
+  },
+  {
+    "address": "1111 Dell Ave Ste C, Campbell, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.2708924,
+      "lng": -121.9531944
+    }
+  },
+  {
+    "address": "10661 OLD REDWOOD HWY, Windsor, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.5652891,
+      "lng": -122.8301116
+    }
+  },
+  {
+    "address": "14 GALLI DR, NOVATO, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.0711432,
+      "lng": -122.53371
+    }
+  },
+  {
+    "address": "2267 Esplanade Ste D, Chico, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 39.7516739,
+      "lng": -121.8568987
+    }
+  },
+  {
+    "address": "251 BELLEVUE AVE, SANTA ROSA, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.4023606,
+      "lng": -122.7226625
+    }
+  },
+  {
+    "address": "5180 COMMERCE BLVD, Rohnert Park, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.3611972,
+      "lng": -122.7116242
+    }
+  },
+  {
+    "address": "7316 MURRAY DR, Stockton, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.0166072,
+      "lng": -121.3010318
+    }
+  },
+  {
+    "address": "4031 WILD CHAPARRAL DR, Shingle Springs, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.6627866,
+      "lng": -120.9417283
+    }
+  },
+  {
+    "address": "51 Kunzler Ranch Rd, Ukiah, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 39.177478,
+      "lng": -123.2095488
+    }
+  },
+  {
+    "address": "1116 W WASHINGTON BLVD, Los Angeles, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0384257,
+      "lng": -118.2820501
+    }
+  },
+  {
+    "address": "2011 N Texas St, Fairfield, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.26619830000001,
+      "lng": -122.0349981
+    }
+  },
+  {
+    "address": "4234 Monterey Hwy, San Jose, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.171426,
+      "lng": -121.6928579
+    }
+  },
+  {
+    "address": "211 E Mill St, Santa Maria, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.9556999,
+      "lng": -120.4336627
+    }
+  },
+  {
+    "address": "1275 Callen St, Vacaville, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.359696,
+      "lng": -121.9746756
+    }
+  },
+  {
+    "address": "920 E Center Ave, Visalia, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.3314337,
+      "lng": -119.2821697
+    }
+  },
+  {
+    "address": "1381 Obispo Ave, Long Beach, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.7840446,
+      "lng": -118.1551478
+    }
+  },
+  {
+    "address": "1970 McAllister St, San Francisco, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7772595,
+      "lng": -122.4445121
+    }
+  },
+  {
+    "address": "4515 Ohara Ave, Brentwood, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9381568,
+      "lng": -121.7013355
+    }
+  },
+  {
+    "address": "925 Bayswater Ave, Burlingame, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5784236,
+      "lng": -122.3396562
+    }
+  },
+  {
+    "address": "3242 De La Cruz Blvd, Santa Clara, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3827317,
+      "lng": -121.9426888
+    }
+  },
+  {
+    "address": "1720 El Camino Real, San Bruno, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6144684,
+      "lng": -122.4050383
+    }
+  },
+  {
+    "address": "630 S Glasgow Ave, Inglewood, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.9550846,
+      "lng": -118.3713368
+    }
+  },
+  {
+    "address": "1347 SIMPSON WAY, Escondido, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.121506,
+      "lng": -117.1067885
+    }
+  },
+  {
+    "address": "1419 Pacific Ave, San Francisco, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7951624,
+      "lng": -122.4187509
+    }
+  },
+  {
+    "address": "401 1st Ave, San Mateo, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.56789089999999,
+      "lng": -122.3233072
+    }
+  },
+  {
+    "address": "1600 Piner Rd, Santa Rosa, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.4713912,
+      "lng": -122.7391837
+    }
+  },
+  {
+    "address": "1100 San Mateo Ave, South San Francisco, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6373831,
+      "lng": -122.411299
+    }
+  },
+  {
+    "address": "4368 Fountain Ave, Los Angeles, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.0955566,
+      "lng": -118.2854429
+    }
+  },
+  {
+    "address": "1833 Solano Ave, Vallejo, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.1031968,
+      "lng": -122.2352692
+    }
+  },
+  {
+    "address": "19285 Highway 12, Sonoma, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.2982143,
+      "lng": -122.4760986
+    }
+  },
+  {
+    "address": "1288 Forgewood Ave, Sunnyvale, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.40966239999999,
+      "lng": -121.9916097
+    }
+  },
+  {
+    "address": "1049 9th Ave, Oakland, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.79147500000001,
+      "lng": -122.2529075
+    }
+  },
+  {
+    "address": "15 Lark Center Dr, Santa Rosa, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.5008992,
+      "lng": -122.7517934
+    }
+  },
+  {
+    "address": "980 Adams St, Benicia, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.0467909,
+      "lng": -122.1368441
+    }
+  },
+  {
+    "address": "1176 Auzerais Ave, San Jose, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3207437,
+      "lng": -121.9096311
+    }
+  },
+  {
+    "address": "351 Petaluma Ave, Sebastopol, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.399877,
+      "lng": -122.8215437
+    }
+  },
+  {
+    "address": "185 Bay Shore Blvd, San Francisco, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7454536,
+      "lng": -122.4036099
+    }
+  },
+  {
+    "address": "4011 Sierra College Blvd, Loomis, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.8105936,
+      "lng": -121.2047659
+    }
+  },
+  {
+    "address": "420 W Avenue I, Lancaster, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.7036044,
+      "lng": -118.1366824
+    }
+  },
+  {
+    "address": "25087 Mission Blvd, Hayward, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6582205,
+      "lng": -122.0726704
+    }
+  },
+  {
+    "address": "815 Woodside Way, San Mateo, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5768902,
+      "lng": -122.3359095
+    }
+  },
+  {
+    "address": "13399 Malaki RD, Apple Valley, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 34.4945463,
+      "lng": -117.1767312
+    }
+  },
+  {
+    "address": "107 Bliss Ave, Pittsburg, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.0153379,
+      "lng": -121.886527
+    }
+  },
+  {
+    "address": "3 Wyoming St Ste 170, Pleasanton, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6692062,
+      "lng": -121.8602521
+    }
+  },
+  {
+    "address": "830 Castro St, San Leandro, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7165927,
+      "lng": -122.1605018
+    }
+  },
+  {
+    "address": "4878 Davenport Pl, Fremont, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.5070667,
+      "lng": -121.9644373
+    }
+  },
+  {
+    "address": "1041 Hensley St, Richmond, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9470536,
+      "lng": -122.3661555
+    }
+  },
+  {
+    "address": "3281 E 18th St, Antioch, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.0053186,
+      "lng": -121.7609011
+    }
+  },
+  {
+    "address": "5512 Martin Luther King Jr Way, Oakland, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.8402642,
+      "lng": -122.2693486
+    }
+  },
+  {
+    "address": "2925 Mission St, San Francisco, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.7501561,
+      "lng": -122.4179304
+    }
+  },
+  {
+    "address": "1510 Humphrey Dr, Suisun City, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.2614901,
+      "lng": -122.0072437
+    }
+  },
+  {
+    "address": "1350 N Texas St, Fairfield, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.2569071,
+      "lng": -122.0333963
+    }
+  },
+  {
+    "address": "406 N Buchanan Cir, Pacheco, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.9916577,
+      "lng": -122.0723926
+    }
+  },
+  {
+    "address": "555 Pacific Coast Hwy, Hermosa Beach, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 33.8591218,
+      "lng": -118.3916408
+    }
+  },
+  {
+    "address": "4225 Power Inn Rd, Sacramento, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 38.5366337,
+      "lng": -121.4084224
+    }
+  },
+  {
+    "address": "280 Cimino St, San Jose, California",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.3024201,
+      "lng": -121.870973
+    }
+  },
+  {
+    "address": "1050 E Plumb Ln Unit 105, Reno, Nevada",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 39.5048751,
+      "lng": -119.7870483
+    }
+  },
+  {
+    "address": "2570 Alta Vista Drive, Elko, Nevada",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.8547879,
+      "lng": -115.7463612
+    }
+  },
+  {
+    "address": "3100 E SAHARA AVE, LAS VEGAS, Nevada",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 36.145332,
+      "lng": -115.1069321
+    }
+  },
+  {
+    "address": "515 N 1300 E, ST GEORGE, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.1167383,
+      "lng": -113.5571645
+    }
+  },
+  {
+    "address": "4014 W Nike Dr, West Jordan, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.6019091,
+      "lng": -111.9869755
+    }
+  },
+  {
+    "address": "132 N Redwood Rd, North Salt Lake, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.8451706,
+      "lng": -111.929616
+    }
+  },
+  {
+    "address": "175 N 1200 E, Lehi, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.3895782,
+      "lng": -111.8308214
+    }
+  },
+  {
+    "address": "4051 S Main St, Murray, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.68349509999999,
+      "lng": -111.8908229
+    }
+  },
+  {
+    "address": "11521 S REDWOOD RD, SOUTH JORDAN, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.5417276,
+      "lng": -111.9381968
+    }
+  },
+  {
+    "address": "1005 N State St, Orem, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.3159238,
+      "lng": -111.7042807
+    }
+  },
+  {
+    "address": "1346 SOUTH 320 EAST, ST GEORGE, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.0853419,
+      "lng": -113.5773761
+    }
+  },
+  {
+    "address": "20 E 900 S, Salt Lake City, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.7488122,
+      "lng": -111.8904261
+    }
+  },
+  {
+    "address": "1010 N Main St, Cedar City, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.6944147,
+      "lng": -113.0614275
+    }
+  },
+  {
+    "address": "4021 Forestdale Dr, Park City, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.6892219,
+      "lng": -111.4642142
+    }
+  },
+  {
+    "address": "2178 N Stagecoach Dr, Saratoga Springs, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.4018299,
+      "lng": -111.9174675
+    }
+  },
+  {
+    "address": "3899 S Redwood Rd, West Valley City, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.6867426,
+      "lng": -111.9378364
+    }
+  },
+  {
+    "address": "71 S 100 W, Washington, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 37.1295544,
+      "lng": -113.511234
+    }
+  },
+  {
+    "address": "221 S 500 E, American Fork, Utah",
+    "tag": "Liberty",
+    "circleColor": "blue",
+    "dotColor": "black",
+    "radius": 5000,
+    "numOfCars": "",
+    "showCircle": true,
+    "coordinates": {
+      "lat": 40.3720691,
+      "lng": -111.7842913
+    }
+  }
+]
