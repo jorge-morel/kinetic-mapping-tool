@@ -31,7 +31,7 @@ function App() {
 
   useEffect(() => {
     if (addresses.length > 0) {
-      fetch('https://kinetic-mapping-tool.onrender.com/addresses', {
+      fetch('https://kinetic-backend.onrender.com/addresses', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(addresses),
