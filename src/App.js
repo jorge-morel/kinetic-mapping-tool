@@ -23,7 +23,7 @@ function App() {
   const [editingIndex, setEditingIndex] = useState(null);
 
   useEffect(() => {
-    fetch('http://localhost:5000/addresses')
+    fetch("https://kinetic-backend.onrender.com/addresses")
       .then((res) => res.json())
       .then((data) => setAddresses(data))
       .catch((err) => console.error('Failed to load addresses:', err));
@@ -31,7 +31,7 @@ function App() {
 
   useEffect(() => {
     if (addresses.length > 0) {
-      fetch('http://localhost:5000/addresses', {
+      fetch('https://kinetic-mapping-tool.onrender.com/addresses', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(addresses),
