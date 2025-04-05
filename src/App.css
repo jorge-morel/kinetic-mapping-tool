@@ -1,7 +1,7 @@
 body, html, #root {
   height: 100%;
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: Helvetica, sans-serif;
 }
 
 .app-container {
@@ -15,7 +15,8 @@ body, html, #root {
   justify-content: center;
   align-items: center;
   padding: 8px 16px;
-  background-color: #f8f9fa;
+  background-color: #f1f1eb;
+  color: #6d39e0;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
