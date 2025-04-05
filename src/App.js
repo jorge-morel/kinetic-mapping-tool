@@ -155,7 +155,7 @@ const handleCSVUpload = (e) => {
 
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="header">
         <h1>Kinetic Market Sizing Tool</h1>
         <form onSubmit={handleSubmit}>
 <input type="file" accept=".csv" onChange={handleCSVUpload} />
