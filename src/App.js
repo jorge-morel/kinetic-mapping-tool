@@ -196,7 +196,7 @@ const handleCSVUpload = (e) => {
               {addresses.map((item, index) => (
                 <>
                   {item.showCircle && <Circle key={`circle-${index}`} center={[item.coordinates.lat, item.coordinates.lng]} radius={item.radius} pathOptions={{ fillColor: item.circleColor, color: 'black', fillOpacity: 0.3 }} />}
-                  <Marker key={`marker-${index}`} position={[item.coordinates.lat, item.coordinates.lng]} icon={L.divIcon({ className: 'leaflet-div-icon', html: `<div style="width: 10px; height: 10px; border-radius: 50%; background-color: ${item.dotColor};"></div>`, iconSize: [12, 12], iconAnchor: [6, 6] })}>
+                  <Marker key={`marker-${index}`} position={[item.coordinates.lat, item.coordinates.lng]} icon={L.divIcon({ className: '', html: `<div style="width: 10px; height: 10px; border-radius: 50%; background-color: ${item.dotColor};"></div>`, iconSize: [12, 12], iconAnchor: [6, 6] })}>
                     <Popup>
                       {editingIndex === index ? (
                         <>
