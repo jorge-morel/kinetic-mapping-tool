@@ -44,12 +44,22 @@ function App() {
     setError('');
     const coords = await getCoordinates(address);
     if (coords) {
-  const circleRad = overrideRadius ? Number(overrideRadius) : radius;
+      const circleRad = overrideRadius ? Number(overrideRadius) : radius;
 
-  setAddresses([
-    ...addresses,
-    { address, coordinates: coords, radius: circleRad, circleColor, dotColor, carrier, location, numOfCars, showCircle },
-  ]);
+      setAddresses([
+        ...addresses,
+        {
+          address,
+          coordinates: coords,
+          radius: circleRad,
+          circleColor,
+          dotColor,
+          carrier,
+          location,
+          numOfCars,
+          showCircle
+        },
+      ]);
       setAddress('');
       setRadius(5000);
       setCarrier('');
@@ -147,6 +157,7 @@ function App() {
         }
 
         setAddresses(newEntries);
+      },
       error: (err) => {
         console.error('Error parsing CSV:', err);
       },
@@ -163,31 +174,27 @@ function App() {
           <div className="input-options">
             <input type="text" value={address} onChange={(e) => setAddress(e.target.value)} placeholder="Enter an address" />
             <input type="number" value={radius} onChange={(e) => setRadius(Number(e.target.value))} min="100" max="10000" placeholder="Radius (m)" disabled={!showCircle} />
-     
 
-<div style={{ margin: '10px 0' }}>
-  <label>Override All Radius:</label>
-  <input
-    type="number"
-    value={overrideRadius}
-    onChange={(e) => {
-      const value = e.target.value;
-      setOverrideRadius(value);
-      if (value && !isNaN(value)) {
-        const updated = addresses.map((item) => ({
-          ...item,
-          radius: Number(value),
-        }));
-        setAddresses(updated);
-      }
-    }}
-    placeholder="e.g. 5000"
-    style={{ marginLeft: '8px' }}
-  />
-</div>
-
-
-
+            <div style={{ margin: '10px 0' }}>
+              <label>Override All Radius:</label>
+              <input
+                type="number"
+                value={overrideRadius}
+                onChange={(e) => {
+                  const value = e.target.value;
+                  setOverrideRadius(value);
+                  if (value && !isNaN(value)) {
+                    const updated = addresses.map((item) => ({
+                      ...item,
+                      radius: Number(value),
+                    }));
+                    setAddresses(updated);
+                  }
+                }}
+                placeholder="e.g. 5000"
+                style={{ marginLeft: '8px' }}
+              />
+            </div>
 
             <input type="number" value={threshold} onChange={(e) => setThreshold(e.target.value)} placeholder="Highlight if cars > X" />
             <select value={circleColor} onChange={(e) => setCircleColor(e.target.value)} disabled={!showCircle}>
@@ -222,14 +229,21 @@ function App() {
               <MapClickHandler />
 
               {addresses.map((item, index) => {
-                const highlightColor = threshold && item.numOfCars && parseInt(item.numOfCars) > parseInt(threshold) ? '#7e3794' : item.circleColor;
+                const highlightColor = threshold && item.numOfCars && parseInt(item.numOfCars) > parseInt(threshold)
+                  ? '#7e3794'
+                  : item.circleColor;
 
                 return (
                   <React.Fragment key={index}>
                     {item.showCircle && (
                       <Circle center={[item.coordinates.lat, item.coordinates.lng]} radius={item.radius} pathOptions={{ fillColor: highlightColor, color: 'black', fillOpacity: 0.3 }} />
                     )}
-                    <Marker position={[item.coordinates.lat, item.coordinates.lng]} icon={L.divIcon({ className: '', html: `<div style="width: 10px; height: 10px; border-radius: 50%; background-color: ${item.dotColor};"></div>`, iconSize: [12, 12], iconAnchor: [6, 6] })}>
+                    <Marker position={[item.coordinates.lat, item.coordinates.lng]} icon={L.divIcon({
+                      className: '',
+                      html: `<div style="width: 10px; height: 10px; border-radius: 50%; background-color: ${item.dotColor};"></div>`,
+                      iconSize: [12, 12],
+                      iconAnchor: [6, 6]
+                    })}>
                       <Popup>
                         {editingIndex === index ? (
                           <>
@@ -254,8 +268,7 @@ function App() {
                           </>
                         ) : (
                           <>
-                            <strong>{item.address}</strong>
-                            <br />
+                            <strong>{item.address}</strong><br />
                             Cars: {item.numOfCars || 'N/A'}<br />
                             Carrier: {item.carrier || 'N/A'}<br />
                             Location: {item.location || 'N/A'}<br />
@@ -269,7 +282,11 @@ function App() {
                 );
               })}
 
-              {clickedPopup && <Popup position={[clickedPopup.lat, clickedPopup.lng]}><strong>Total cars in area: {clickedPopup.totalCars}</strong></Popup>}
+              {clickedPopup && (
+                <Popup position={[clickedPopup.lat, clickedPopup.lng]}>
+                  <strong>Total cars in area: {clickedPopup.totalCars}</strong>
+                </Popup>
+              )}
             </MapContainer>
           </div>
         )}
