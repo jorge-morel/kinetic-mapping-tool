@@ -44,12 +44,12 @@ function App() {
     setError('');
     const coords = await getCoordinates(address);
     if (coords) {
-      radius: radius,
+  const circleRad = overrideRadius ? Number(overrideRadius) : radius;
 
-      setAddresses([
-        ...addresses,
-        { address, coordinates: coords, radius: circleRad, circleColor, dotColor, carrier, location, numOfCars, showCircle },
-      ]);
+  setAddresses([
+    ...addresses,
+    { address, coordinates: coords, radius: circleRad, circleColor, dotColor, carrier, location, numOfCars, showCircle },
+  ]);
       setAddress('');
       setRadius(5000);
       setCarrier('');
