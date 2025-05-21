@@ -44,7 +44,8 @@ function App() {
     setError('');
     const coords = await getCoordinates(address);
     if (coords) {
-      const circleRad = overrideRadius ? Number(overrideRadius) : radius;
+      radius: radius,
+
       setAddresses([
         ...addresses,
         { address, coordinates: coords, radius: circleRad, circleColor, dotColor, carrier, location, numOfCars, showCircle },
@@ -145,8 +146,7 @@ function App() {
           }
         }
 
-        setAddresses((prev) => [...prev, ...newEntries]);
-      },
+        setAddresses(newEntries);
       error: (err) => {
         console.error('Error parsing CSV:', err);
       },
@@ -163,7 +163,32 @@ function App() {
           <div className="input-options">
             <input type="text" value={address} onChange={(e) => setAddress(e.target.value)} placeholder="Enter an address" />
             <input type="number" value={radius} onChange={(e) => setRadius(Number(e.target.value))} min="100" max="10000" placeholder="Radius (m)" disabled={!showCircle} />
-            <input type="number" value={overrideRadius} onChange={(e) => setOverrideRadius(e.target.value)} placeholder="Override All Radii (optional)" />
+     
+
+<div style={{ margin: '10px 0' }}>
+  <label>Override All Radius:</label>
+  <input
+    type="number"
+    value={overrideRadius}
+    onChange={(e) => {
+      const value = e.target.value;
+      setOverrideRadius(value);
+      if (value && !isNaN(value)) {
+        const updated = addresses.map((item) => ({
+          ...item,
+          radius: Number(value),
+        }));
+        setAddresses(updated);
+      }
+    }}
+    placeholder="e.g. 5000"
+    style={{ marginLeft: '8px' }}
+  />
+</div>
+
+
+
+
             <input type="number" value={threshold} onChange={(e) => setThreshold(e.target.value)} placeholder="Highlight if cars > X" />
             <select value={circleColor} onChange={(e) => setCircleColor(e.target.value)} disabled={!showCircle}>
               <option value="red">Red</option>
