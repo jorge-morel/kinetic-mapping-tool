@@ -21,6 +21,7 @@ function App() {
   const [showCircle, setShowCircle] = useState(true);
   const [clickedPopup, setClickedPopup] = useState(null);
   const [editingIndex, setEditingIndex] = useState(null);
+  const [csvToImport, setCsvToImport] = useState(null);
 
   useEffect(() => {
     fetch("https://kinetic-mapping-tool.onrender.com/addresses")
@@ -122,7 +123,13 @@ function App() {
   const handleCSVUpload = (e) => {
     const file = e.target.files[0];
     if (!file) return;
-    Papa.parse(file, {
+    setCsvToImport(file);
+  };
+
+  const handleConfirmImport = () => {
+    if (!csvToImport) return;
+
+    Papa.parse(csvToImport, {
       header: true,
       skipEmptyLines: true,
       complete: async (results) => {
@@ -143,6 +150,7 @@ function App() {
             });
           }
         }
+
         fetch('https://kinetic-mapping-tool.onrender.com/addresses', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -162,6 +170,7 @@ function App() {
         <div className="top-banner">
           <div className="left-section">
             <input type="file" accept=".csv" onChange={handleCSVUpload} />
+            <button type="button" onClick={handleConfirmImport}>Import CSV</button>
             <button type="button" onClick={handleExportCSV}>Export to CSV</button>
             <input type="number" value={overrideRadius} onChange={handleOverrideRadiusChange} placeholder="Override All Radii" />
             <input type="number" value={threshold} onChange={(e) => setThreshold(e.target.value)} placeholder="Highlight if cars > X" />
