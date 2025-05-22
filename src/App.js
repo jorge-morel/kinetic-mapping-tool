@@ -44,21 +44,9 @@ function App() {
     setError('');
     const coords = await getCoordinates(address);
     if (coords) {
-      const circleRad = overrideRadius ? Number(overrideRadius) : radius;
-
       setAddresses([
         ...addresses,
-        {
-          address,
-          coordinates: coords,
-          radius: circleRad,
-          circleColor,
-          dotColor,
-          carrier,
-          location,
-          numOfCars,
-          showCircle
-        },
+        { address, coordinates: coords, radius, circleColor, dotColor, carrier, location, numOfCars, showCircle },
       ]);
       setAddress('');
       setRadius(5000);
@@ -81,24 +69,28 @@ function App() {
     setAddresses(updatedAddresses);
   };
 
+  const handleOverrideRadiusChange = (e) => {
+    const value = e.target.value;
+    setOverrideRadius(value);
+    if (value && !isNaN(value)) {
+      const updated = addresses.map((item) => ({ ...item, radius: Number(value) }));
+      setAddresses(updated);
+    }
+  };
+
   const MapClickHandler = () => {
     useMapEvents({
       click: (e) => {
         const { lat, lng } = e.latlng;
         let totalCars = 0;
-
         addresses.forEach((item) => {
           const distance = L.latLng(lat, lng).distanceTo(L.latLng(item.coordinates.lat, item.coordinates.lng));
           if (distance <= item.radius && item.numOfCars) {
             totalCars += parseInt(item.numOfCars, 10);
           }
         });
-
-        if (totalCars > 0) {
-          setClickedPopup({ lat, lng, totalCars });
-        } else {
-          setClickedPopup(null);
-        }
+        if (totalCars > 0) setClickedPopup({ lat, lng, totalCars });
+        else setClickedPopup(null);
       },
     });
     return null;
@@ -106,7 +98,6 @@ function App() {
 
   const handleExportCSV = () => {
     if (addresses.length === 0) return;
-
     const dataToExport = addresses.map((item) => ({
       address: item.address,
       carrier: item.carrier || '',
@@ -117,7 +108,6 @@ function App() {
       numOfCars: item.numOfCars || '',
       showCircle: item.showCircle !== false,
     }));
-
     const csv = Papa.unparse(dataToExport);
     const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
     const url = URL.createObjectURL(blob);
@@ -132,13 +122,11 @@ function App() {
   const handleCSVUpload = (e) => {
     const file = e.target.files[0];
     if (!file) return;
-
     Papa.parse(file, {
       header: true,
       skipEmptyLines: true,
       complete: async (results) => {
         const newEntries = [];
-
         for (const row of results.data) {
           const coords = await getCoordinates(row.address);
           if (coords) {
@@ -155,12 +143,15 @@ function App() {
             });
           }
         }
-
-        setAddresses(newEntries);
+        fetch('https://kinetic-mapping-tool.onrender.com/addresses', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(newEntries),
+        })
+          .then(() => setAddresses(newEntries))
+          .catch((err) => console.error('Failed to upload CSV data:', err));
       },
-      error: (err) => {
-        console.error('Error parsing CSV:', err);
-      },
+      error: (err) => console.error('Error parsing CSV:', err),
     });
   };
 
@@ -168,35 +159,16 @@ function App() {
     <div className="App">
       <header className="header">
         <h1>Kinetic Market Sizing Tool</h1>
-        <form onSubmit={handleSubmit}>
-          <input type="file" accept=".csv" onChange={handleCSVUpload} />
-          <button type="button" onClick={handleExportCSV}>Export to CSV</button>
-          <div className="input-options">
+        <div className="top-banner">
+          <div className="left-section">
+            <input type="file" accept=".csv" onChange={handleCSVUpload} />
+            <button type="button" onClick={handleExportCSV}>Export to CSV</button>
+            <input type="number" value={overrideRadius} onChange={handleOverrideRadiusChange} placeholder="Override All Radii" />
+            <input type="number" value={threshold} onChange={(e) => setThreshold(e.target.value)} placeholder="Highlight if cars > X" />
+          </div>
+          <form className="right-section" onSubmit={handleSubmit}>
             <input type="text" value={address} onChange={(e) => setAddress(e.target.value)} placeholder="Enter an address" />
             <input type="number" value={radius} onChange={(e) => setRadius(Number(e.target.value))} min="100" max="10000" placeholder="Radius (m)" disabled={!showCircle} />
-
-            <div style={{ margin: '10px 0' }}>
-              <label>Override All Radius:</label>
-              <input
-                type="number"
-                value={overrideRadius}
-                onChange={(e) => {
-                  const value = e.target.value;
-                  setOverrideRadius(value);
-                  if (value && !isNaN(value)) {
-                    const updated = addresses.map((item) => ({
-                      ...item,
-                      radius: Number(value),
-                    }));
-                    setAddresses(updated);
-                  }
-                }}
-                placeholder="e.g. 5000"
-                style={{ marginLeft: '8px' }}
-              />
-            </div>
-
-            <input type="number" value={threshold} onChange={(e) => setThreshold(e.target.value)} placeholder="Highlight if cars > X" />
             <select value={circleColor} onChange={(e) => setCircleColor(e.target.value)} disabled={!showCircle}>
               <option value="red">Red</option>
               <option value="orange">Orange</option>
@@ -209,16 +181,16 @@ function App() {
               <option value="black">Black</option>
               <option value="purple">Purple</option>
             </select>
-            <input type="text" value={carrier} onChange={(e) => setCarrier(e.target.value)} placeholder="Carrier (optional)" />
-            <input type="text" value={location} onChange={(e) => setLocation(e.target.value)} placeholder="Location (optional)" />
+            <input type="text" value={carrier} onChange={(e) => setCarrier(e.target.value)} placeholder="Carrier" />
+            <input type="text" value={location} onChange={(e) => setLocation(e.target.value)} placeholder="Location" />
             <input type="number" value={numOfCars} onChange={(e) => setNumOfCars(e.target.value)} placeholder="# of Cars" />
             <label>
               Show Circle:
               <input type="checkbox" checked={showCircle} onChange={(e) => setShowCircle(e.target.checked)} />
             </label>
             <button type="submit">Add Address</button>
-          </div>
-        </form>
+          </form>
+        </div>
 
         {error && <p className="error">{error}</p>}
 
@@ -229,21 +201,13 @@ function App() {
               <MapClickHandler />
 
               {addresses.map((item, index) => {
-                const highlightColor = threshold && item.numOfCars && parseInt(item.numOfCars) > parseInt(threshold)
-                  ? '#7e3794'
-                  : item.circleColor;
-
+                const highlightColor = threshold && item.numOfCars && parseInt(item.numOfCars) > parseInt(threshold) ? '#7e3794' : item.circleColor;
                 return (
                   <React.Fragment key={index}>
                     {item.showCircle && (
                       <Circle center={[item.coordinates.lat, item.coordinates.lng]} radius={item.radius} pathOptions={{ fillColor: highlightColor, color: 'black', fillOpacity: 0.3 }} />
                     )}
-                    <Marker position={[item.coordinates.lat, item.coordinates.lng]} icon={L.divIcon({
-                      className: '',
-                      html: `<div style="width: 10px; height: 10px; border-radius: 50%; background-color: ${item.dotColor};"></div>`,
-                      iconSize: [12, 12],
-                      iconAnchor: [6, 6]
-                    })}>
+                    <Marker position={[item.coordinates.lat, item.coordinates.lng]} icon={L.divIcon({ className: '', html: `<div style="width: 10px; height: 10px; border-radius: 50%; background-color: ${item.dotColor};"></div>`, iconSize: [12, 12], iconAnchor: [6, 6] })}>
                       <Popup>
                         {editingIndex === index ? (
                           <>
@@ -282,11 +246,7 @@ function App() {
                 );
               })}
 
-              {clickedPopup && (
-                <Popup position={[clickedPopup.lat, clickedPopup.lng]}>
-                  <strong>Total cars in area: {clickedPopup.totalCars}</strong>
-                </Popup>
-              )}
+              {clickedPopup && <Popup position={[clickedPopup.lat, clickedPopup.lng]}><strong>Total cars in area: {clickedPopup.totalCars}</strong></Popup>}
             </MapContainer>
           </div>
         )}
