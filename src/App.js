@@ -192,7 +192,107 @@ function App() {
 
   return (
     <div className="App">
-      {/* JSX continues as implemented */}
+      <header className="header">
+        <h1>Kinetic Market Sizing Tool</h1>
+        <div className="top-banner">
+          <div className="left-banner">
+            <input type="file" accept=".csv" onChange={handleCSVUpload} />
+            <button onClick={handleConfirmImport}>Import CSV</button>
+            <button onClick={handleExportCSV}>Export CSV</button>
+            <input type="number" value={overrideRadius} onChange={handleOverrideRadiusChange} placeholder="Override Radius" />
+            <input type="number" value={threshold} onChange={(e) => setThreshold(e.target.value)} placeholder="Highlight if cars > X" />
+            <div>Potential Kinetic Hubs: {hubMarkers.length}</div>
+          </div>
+          <div className="right-banner">
+            <form onSubmit={handleSubmit}>
+              <input type="text" value={address} onChange={(e) => setAddress(e.target.value)} placeholder="Enter address" />
+              <select value={circleColor} onChange={(e) => setCircleColor(e.target.value)}>
+                <option value="red">Red</option>
+                <option value="orange">Orange</option>
+                <option value="yellow">Yellow</option>
+                <option value="blue">Blue</option>
+                <option value="green">Green</option>
+                <option value="purple">Purple</option>
+              </select>
+              <select value={dotColor} onChange={(e) => setDotColor(e.target.value)}>
+                <option value="black">Black</option>
+                <option value="purple">Purple</option>
+              </select>
+              <input type="text" value={carrier} onChange={(e) => setCarrier(e.target.value)} placeholder="Carrier" />
+              <input type="text" value={location} onChange={(e) => setLocation(e.target.value)} placeholder="Location" />
+              <input type="number" value={numOfCars} onChange={(e) => setNumOfCars(e.target.value)} placeholder="# of Cars" />
+              <label>
+                Show Circle
+                <input type="checkbox" checked={showCircle} onChange={(e) => setShowCircle(e.target.checked)} />
+              </label>
+              <button type="submit">Add Address</button>
+            </form>
+          </div>
+        </div>
+      </header>
+
+      <div className="map-container">
+        {addresses.length > 0 && (
+          <MapContainer center={[addresses[0].coordinates.lat, addresses[0].coordinates.lng]} zoom={13} style={{ height: '100%', width: '100%' }}>
+            <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+            <MapClickHandler />
+            {clickedPopup && <Popup position={[clickedPopup.lat, clickedPopup.lng]}><strong>Total cars: {clickedPopup.totalCars}</strong></Popup>}
+            {addresses.map((item, index) => (
+              <React.Fragment key={index}>
+                {item.showCircle && (
+                  <Circle
+                    center={[item.coordinates.lat, item.coordinates.lng]}
+                    radius={item.radius}
+                    pathOptions={{ fillColor: item.circleColor, color: 'black', fillOpacity: 0.3 }}
+                  />
+                )}
+                <Marker
+                  position={[item.coordinates.lat, item.coordinates.lng]}
+                  icon={L.divIcon({
+                    className: '',
+                    html: `<div style="width: 10px; height: 10px; border-radius: 50%; background-color: ${item.dotColor};"></div>`,
+                    iconSize: [12, 12],
+                    iconAnchor: [6, 6],
+                  })}
+                >
+                  <Popup>
+                    <strong>{item.address}</strong><br />
+                    Cars: {item.numOfCars || 'N/A'}<br />
+                    Carrier: {item.carrier || 'N/A'}<br />
+                    Location: {item.location || 'N/A'}<br />
+                    <button onClick={() => setEditingIndex(index)}>Edit</button>
+                    <button onClick={() => removeAddress(index)}>Remove</button>
+                    {editingIndex === index && (
+                      <>
+                        <input type="number" value={item.numOfCars || ''} onChange={(e) => handleEditCircle(index, 'numOfCars', e.target.value)} />
+                        <input type="text" value={item.carrier} onChange={(e) => handleEditCircle(index, 'carrier', e.target.value)} />
+                        <input type="text" value={item.location} onChange={(e) => handleEditCircle(index, 'location', e.target.value)} />
+                        <select value={item.circleColor} onChange={(e) => handleEditCircle(index, 'circleColor', e.target.value)}>
+                          <option value="red">Red</option>
+                          <option value="orange">Orange</option>
+                          <option value="yellow">Yellow</option>
+                          <option value="blue">Blue</option>
+                          <option value="green">Green</option>
+                          <option value="purple">Purple</option>
+                        </select>
+                        <select value={item.dotColor} onChange={(e) => handleEditCircle(index, 'dotColor', e.target.value)}>
+                          <option value="black">Black</option>
+                          <option value="purple">Purple</option>
+                        </select>
+                        <input type="checkbox" checked={item.showCircle} onChange={(e) => handleEditCircle(index, 'showCircle', e.target.checked)} />
+                        <button onClick={() => setEditingIndex(null)}>Save</button>
+                      </>
+                    )}
+                  </Popup>
+                </Marker>
+              </React.Fragment>
+            ))}
+            {hubMarkers.map((pos, i) => (
+              <Marker key={`hub-${i}`} position={[pos.lat, pos.lng]} icon={L.icon({ iconUrl: kineticIcon, iconSize: [32, 32] })} />
+            ))}
+          </MapContainer>
+        )}
+      </div>
     </div>
   );
 }
