@@ -189,7 +189,144 @@ function App() {
   };
 
   return (
-    // your JSX remains unchanged
+       <div className="App">
+      <header className="header">
+        <div className="top-bar">
+          {/* Left Section */}
+          <div className="left-panel">
+            <input type="file" accept=".csv" onChange={handleCSVUpload} />
+            <button onClick={handleConfirmImport}>Import CSV</button>
+            <button onClick={handleExportCSV}>Export CSV</button>
+            <input
+              type="number"
+              value={overrideRadius}
+              onChange={handleOverrideRadiusChange}
+              placeholder="Override Radius"
+            />
+            <input
+              type="number"
+              value={threshold}
+              onChange={(e) => setThreshold(e.target.value)}
+              placeholder="Highlight if cars > X"
+            />
+          </div>
+
+          {/* Right Section */}
+          <form className="right-panel" onSubmit={handleSubmit}>
+            <input type="text" value={address} onChange={(e) => setAddress(e.target.value)} placeholder="Enter address" />
+            <input type="number" value={radius} onChange={(e) => setRadius(Number(e.target.value))} min="100" max="10000" placeholder="Radius" />
+            <select value={circleColor} onChange={(e) => setCircleColor(e.target.value)}>
+              <option value="red">Red</option>
+              <option value="orange">Orange</option>
+              <option value="yellow">Yellow</option>
+              <option value="blue">Blue</option>
+              <option value="green">Green</option>
+              <option value="purple">Purple</option>
+            </select>
+            <select value={dotColor} onChange={(e) => setDotColor(e.target.value)}>
+              <option value="black">Black</option>
+              <option value="purple">Purple</option>
+            </select>
+            <input type="text" value={carrier} onChange={(e) => setCarrier(e.target.value)} placeholder="Carrier" />
+            <input type="text" value={location} onChange={(e) => setLocation(e.target.value)} placeholder="Location" />
+            <input type="number" value={numOfCars} onChange={(e) => setNumOfCars(e.target.value)} placeholder="# of Cars" />
+            <label>
+              Show Circle
+              <input type="checkbox" checked={showCircle} onChange={(e) => setShowCircle(e.target.checked)} />
+            </label>
+            <button type="submit">Add Address</button>
+          </form>
+        </div>
+        <div className="hub-count">
+          <strong>Potential Kinetic Hubs:</strong> {hubMarkers.length}
+        </div>
+      </header>
+
+      {error && <p className="error">{error}</p>}
+
+      {addresses.length > 0 && (
+        <div className="map-container">
+          <MapContainer center={[addresses[0].coordinates.lat, addresses[0].coordinates.lng]} zoom={13} style={{ height: '100%', width: '100%' }}>
+            <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+            <MapClickHandler />
+
+            {addresses.map((item, index) => (
+              <React.Fragment key={index}>
+                {item.showCircle && (
+                  <Circle
+                    center={[item.coordinates.lat, item.coordinates.lng]}
+                    radius={item.radius}
+                    pathOptions={{ fillColor: item.circleColor, color: 'black', fillOpacity: 0.3 }}
+                  />
+                )}
+                <Marker
+                  position={[item.coordinates.lat, item.coordinates.lng]}
+                  icon={L.divIcon({
+                    className: '',
+                    html: `<div style="width: 10px; height: 10px; border-radius: 50%; background-color: ${item.dotColor};"></div>`,
+                    iconSize: [12, 12],
+                    iconAnchor: [6, 6]
+                  })}
+                >
+                  <Popup>
+                    {editingIndex === index ? (
+                      <>
+                        <input type="text" value={item.carrier} onChange={(e) => handleEditCircle(index, 'carrier', e.target.value)} placeholder="Carrier" />
+                        <input type="text" value={item.location} onChange={(e) => handleEditCircle(index, 'location', e.target.value)} placeholder="Location" />
+                        <input type="number" value={item.numOfCars || ''} onChange={(e) => handleEditCircle(index, 'numOfCars', e.target.value)} placeholder="# of Cars" />
+                        <input type="number" value={item.radius} onChange={(e) => handleEditCircle(index, 'radius', Number(e.target.value))} />
+                        <select value={item.circleColor} onChange={(e) => handleEditCircle(index, 'circleColor', e.target.value)}>
+                          <option value="red">Red</option>
+                          <option value="orange">Orange</option>
+                          <option value="yellow">Yellow</option>
+                          <option value="blue">Blue</option>
+                          <option value="green">Green</option>
+                          <option value="purple">Purple</option>
+                        </select>
+                        <select value={item.dotColor} onChange={(e) => handleEditCircle(index, 'dotColor', e.target.value)}>
+                          <option value="black">Black</option>
+                          <option value="purple">Purple</option>
+                        </select>
+                        <input type="checkbox" checked={item.showCircle} onChange={(e) => handleEditCircle(index, 'showCircle', e.target.checked)} /> Show Circle
+                        <button onClick={() => setEditingIndex(null)}>Save</button>
+                      </>
+                    ) : (
+                      <>
+                        <strong>{item.address}</strong><br />
+                        Cars: {item.numOfCars || 'N/A'}<br />
+                        Carrier: {item.carrier || 'N/A'}<br />
+                        Location: {item.location || 'N/A'}<br />
+                        <button onClick={() => setEditingIndex(index)}>Edit</button>
+                        <button onClick={() => removeAddress(index)}>Remove</button>
+                      </>
+                    )}
+                  </Popup>
+                </Marker>
+              </React.Fragment>
+            ))}
+
+            {hubMarkers.map((marker, idx) => (
+              <Marker
+                key={`hub-${idx}`}
+                position={[marker.lat, marker.lng]}
+                icon={L.icon({
+                  iconUrl: kineticIcon,
+                  iconSize: [30, 30],
+                  iconAnchor: [15, 15]
+                })}
+              />
+            ))}
+
+            {clickedPopup && (
+              <Popup position={[clickedPopup.lat, clickedPopup.lng]}>
+                <strong>Total cars in area: {clickedPopup.totalCars}</strong>
+              </Popup>
+            )}
+          </MapContainer>
+        </div>
+      )}
+    </div>
+
   );
 }
 
