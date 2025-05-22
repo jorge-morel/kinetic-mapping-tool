@@ -3,7 +3,8 @@ const fs = require('fs');
 const cors = require('cors');
 
 const app = express();
-app.use(express.json());
+// 🔧 Increase payload limit to 10MB (adjustable)
+app.use(express.json({ limit: '10mb' }));
 app.use(cors());
 
 const DATA_FILE = './data.json';
