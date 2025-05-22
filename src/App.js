@@ -191,7 +191,9 @@ function App() {
   };
 
   return (
-    // your JSX remains unchanged
+    <div className="App">
+      {/* JSX continues as implemented */}
+    </div>
   );
 }
 
